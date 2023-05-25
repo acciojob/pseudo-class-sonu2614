@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-p::after{
+div::after{
 	color:red;
 	content:" After Element";
 }
 
-p::before{
+div::before{
 	color:red;
 		content:" Before Element";
 }
